@@ -10,23 +10,41 @@ font: 400 0.75rem/1.35 "Poppins", sans-serif;
     font: 400 1rem/1.5 "Poppins", sans-serif;
 }
 
-.texto-medio {
-    font: 400 1.5rem/1.5 "Roboto", sans-serif;
+.texto-pequeno3 {
+    font: 400 1rem/1.5 "Roboto", sans-serif;
+    color: #ffffff;
 }
 
 .texto-medio {
     font: 400 1.5rem/1.5 "Roboto", sans-serif;
-    color: #3b3b3b;
+    color: #868585;
 }
 
 .texto-medio1 {
     font: 600 2rem/1.25 "Poppins", sans-serif;
+    color: #000000;
 }
 
 .texto-medio2 {
     font: 600 2rem/1.25 "Poppins", sans-serif;
     color: #ea047e;
 }
+
+.texto-medio3 {
+    font: 600 2rem/1.25 "Poppins", sans-serif;
+    color: #642929;
+}
+
+.texto-medio4 {
+    font: 400 1.5rem/1.5 "Roboto", sans-serif;
+    color: #ffffff;
+}
+
+.texto-medio5 {
+    font: 600 2rem/1.25 "Poppins", sans-serif;
+    color: #ffffff;
+}
+
 
 .texto-grande {
     font: 600 4rem/1.125 "Poppins", sans-serif;
@@ -35,6 +53,11 @@ font: 400 0.75rem/1.35 "Poppins", sans-serif;
 .texto-grande1 {
     font: 600 4rem/1.125 "Poppins", sans-serif;
     color: #fff;
+}
+
+.texto-grande1 {
+    font: 600 4rem/1.125 "Poppins", sans-serif;
+    color: #000000;
 }
 
 
