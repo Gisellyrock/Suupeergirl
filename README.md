@@ -10,6 +10,6 @@
 # Deploy
 https://incredible-paprenjak-0d6a66.netlify.app/
 
-# Video
+# Screenshots
 
 
