@@ -10,6 +10,8 @@
 # Deploy
 https://incredible-paprenjak-0d6a66.netlify.app/
 
-# Screenshots
+# Video
+https://user-images.githubusercontent.com/104739434/228846091-fcf983f0-c989-45e3-a836-b7adde45f06b.mp4
+
 
 
