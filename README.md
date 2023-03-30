@@ -4,7 +4,7 @@
 <h1 align="center"> Suupeer Girl </h1>
 
 # Portfólio
-- Neste projeto aprofundo meu conhecimento em responsividade.
+- Neste projeto aprofundo meu conhecimento em responsividade e em UI/UX Design.
 
 
 # Deploy
