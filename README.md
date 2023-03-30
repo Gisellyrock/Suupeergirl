@@ -4,14 +4,18 @@
 <h1 align="center"> Suupeer Girl </h1>
 
 # Portfólio
-- Neste projeto falo sobre minha formação acadêmica e minhas experiências dando um destaque especial ao meu projeto: As Ovelinhas/The Little Sheep.
+- Neste projeto aprofundo meu conhecimento em responsividade.
 
 
 # Deploy
 https://incredible-paprenjak-0d6a66.netlify.app/
 
+
 # Video
 https://user-images.githubusercontent.com/104739434/228846091-fcf983f0-c989-45e3-a836-b7adde45f06b.mp4
+
+
+#Screenshot
 
 
 
